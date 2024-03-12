@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ajGJAevWB71inSAfgYkx5+Yr7R6JtuyRVPFcG5n0t7jodJ/M+sGdczLVEWqyPFaHFc73eDRbADbDXSuF5sQacQ==",
+  "success": true,
+  "projectFilePath": "/home/computer/CsharpProjects/bl0b/bl0b.csproj",
+  "expectedPackageFiles": [
+    "/home/computer/.nuget/packages/azure.core/1.36.0/azure.core.1.36.0.nupkg.sha512",
+    "/home/computer/.nuget/packages/azure.storage.blobs/12.19.1/azure.storage.blobs.12.19.1.nupkg.sha512",
+    "/home/computer/.nuget/packages/azure.storage.common/12.18.1/azure.storage.common.12.18.1.nupkg.sha512",
+    "/home/computer/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/home/computer/.nuget/packages/system.diagnostics.diagnosticsource/6.0.1/system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "/home/computer/.nuget/packages/system.io.hashing/6.0.0/system.io.hashing.6.0.0.nupkg.sha512",
+    "/home/computer/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/home/computer/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/home/computer/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/computer/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/home/computer/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
+    "/home/computer/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+/home/computer/CsharpProjects/bl0b/obj/Debug/net8.0/bl0b.csproj.AssemblyReference.cache
+/home/computer/CsharpProjects/bl0b/obj/Debug/net8.0/bl0b.GeneratedMSBuildEditorConfig.editorconfig
+/home/computer/CsharpProjects/bl0b/obj/Debug/net8.0/bl0b.AssemblyInfoInputs.cache
+/home/computer/CsharpProjects/bl0b/obj/Debug/net8.0/bl0b.AssemblyInfo.cs
+/home/computer/CsharpProjects/bl0b/obj/Debug/net8.0/bl0b.csproj.CoreCompileInputs.cache
